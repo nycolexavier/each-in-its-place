@@ -1,0 +1,12 @@
+#css{
+    cursor: pointer;
+    width: 100px;
+    position: absolute;
+    transition: 1s;
+}
+#php{
+    cursor: pointer;
+    width: 100px;
+    position: absolute;
+    transition: 1s;
+}
